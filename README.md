@@ -20,6 +20,9 @@ Mova o arquivo para **open_.pyw**, para esta pasta.
 
 # Adicionar arquivos/programa para abrir ao iniciar
 ![wind01.png](img/wind01.png)
-Click em Browse e abrirá a seguinte tela:
+
+>Click em Browse e abrirá a seguinte tela:
+
 ![wind02.png](img/wind02.png)
-Selecione onde o arquivo/programa está, depois click em salvar. Pronto, assim que reiniciar o sistema quando iniciar vai abrir o arquivo/programa que você selecionou.
+
+>Selecione onde o arquivo/programa está, depois click em salvar. Pronto, assim que reiniciar o sistema quando iniciar vai abrir o arquivo/programa que você selecionou.
